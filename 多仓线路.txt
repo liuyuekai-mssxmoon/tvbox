@@ -1,0 +1,100 @@
+{
+  "urls": [
+    {
+      "name": "💙如风202411💙",
+      "url": "https://gitee.com/Javis77/line/raw/master/202411%E8%87%AA%E5%9C%A8%E5%A6%82%E9%A3%8E%E6%8E%A5%E5%8F%A3"
+    },
+    {
+      "name": "💙小盒子单仓💙",
+      "url": "http://xhztv.top/xhz"
+    },   
+    {
+      "name": "💙小盒子4K💙",
+      "url": "http://xhztv.top/4k.json"
+    },
+    {
+      "name": "💙肥猫接口💙",
+      "url": "http://肥猫.com"
+    },
+    {
+      "name": "💙饭太硬💙",
+      "url": "http://fty.xxooo.cf/tv"
+    },
+    {
+      "name": "💙摸鱼接口💙",
+      "url": "http://我不是.摸鱼儿.com"
+    },
+    {
+      "name": "💙OK线路💙",
+      "url": "http://ok321.top/tv"
+    },
+    {
+      "name": "💙騷零接口💙",
+      "url": "https://100km.top/0"
+    },
+    {
+      "name": "💙蜂蜜接口💙",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/demo.json"
+    },
+    {
+      "name": "💙小米DEMO💙",
+      "url": "https://3450.kstore.space/DEMO.json"
+    },
+	{
+      "name": "💙小米DEMO2💙",
+      "url": "http://www.mpanso.com/小米/DEMO.json"
+    },
+    {
+      "name": "💙OK佬💙",
+      "url": "http://ok321.top/ok"
+    },
+    {
+      "name": "💙王二小放牛娃💙",
+      "url": "http://tvbox.王二小放牛娃.top"
+    },
+    {
+      "name": "💙欧歌免费💙",
+      "url": "https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv"
+    },
+    {
+      "name": "💙小橙子💙",
+      "url": "https://git.acwing.com/xcz/xcz/-/raw/master/xcz.json"
+    },
+    {
+      "name": "💙魔盒接口💙",
+      "url": "https://git.acwing.com/999/tvbox/-/raw/main/%E9%AD%94%E7%9B%92.json"
+    },
+    {
+      "name": "💙驸马影视💙",
+      "url": "http://fmys.top/fmys.json"
+    },
+    {
+      "name": "💙ocean2025💙",
+      "url": "https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json"
+    },
+    {
+      "name": "💙挺好分享💙",
+      "url": "https://ztha.top/TVBox/thdjk.json"
+    },
+    {
+      "name": "💙欧歌4K💙",
+      "url": "http://tv.nxog.top/m"
+    },
+    {
+      "name": "💙巧记Box💙",
+      "url": "http://cdn.qiaoji8.com/tvbox.json"
+    },
+    {
+      "name": "💙宝盒VIP💙",
+      "url": "https://ghp.ci/raw.githubusercontent.com/guot55/YGBH/main/vip2.json"
+    },
+    {
+      "name": "💙香雅情短剧💙",
+      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json"
+    },
+    {
+      "name": "💙不是青龙💙",
+      "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json"
+    }
+  ]
+}
