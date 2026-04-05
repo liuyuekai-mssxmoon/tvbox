@@ -4,7 +4,7 @@
    "sites": [                                         
     {
       "key": "Douban",
-      "name": "🐮没水瓶的人┃牛逼PLUS【更新日期:20260405-github】🐮",
+      "name": "🐮没水瓶的人┃牛逼PLUS【更新日期:20260405-1-github】🐮",
       "type": 3,
       "api": "csp_DoubanGuard",
       "searchable": 0,
@@ -781,39 +781,7 @@
       "searchable": 1,
       "changeable": 0
               },
-         {
-      "key": "bili",
-      "name": "🅱哔哔┃合集🅱",
-      "type": 3,
-      "api": "csp_BiliGuardGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "./lib/bili001.txt"
-      }
-    },
-    {
-      "key": "biliych",
-      "name": "🅱哔哔┃歌曲🅱",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "./lib/bilisong.txt"
-      }
-    },
-      {
+              {
       "key": "Wexxsmp3",
       "name": "🎤随身┃相声🎤",
       "type": 3,
