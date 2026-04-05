@@ -725,39 +725,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "Wexliyuan",
-      "name": "🎎戏曲┃秒播🎎",
-      "type": 3,
-      "api": "csp_WexliyuanGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 2
-      }
-    },
-    {
-      "key": "Wextangdou",
-      "name": "💃跳舞┃教学💃",
-      "type": 3,
-      "api": "csp_WextangdouGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 2
-      }
-    },
-    {
-      "key": "Iktv",
-      "name": "🎤KTV┃音乐🎤",
-      "type": 3,
-      "api": "csp_WexIktvGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
+     {
       "key": "WexDm84",
       "name": "🤡巴士┃动漫🤡",
       "type": 3,
@@ -845,15 +813,7 @@
         "json": "./lib/bilisong.txt"
       }
     },
-    {
-      "key": "Wexqingfengdj",
-      "name": "🎼舞曲┃摇头🎼",
-      "type": 3,
-      "api": "csp_WexqingfengdjGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
+      {
       "key": "Wexxsmp3",
       "name": "🎤随身┃相声🎤",
       "type": 3,
