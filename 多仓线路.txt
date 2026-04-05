@@ -18,7 +18,7 @@
     },
     {
       "name": "💙饭太硬💙",
-      "url": "http://fty.xxooo.cf/tv"
+      "url": "http://www.饭太硬.com/tv"
     },
     {
       "name": "💙摸鱼接口💙",
